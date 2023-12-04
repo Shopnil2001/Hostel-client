@@ -1,0 +1,25 @@
+[
+    {
+      "FoodName": "Spaghetti Carbonara",
+      "FoodImage": "https://i.ibb.co/sbZFjJz/pexels-polina-tankilevitch-4518844.jpg",
+      "FoodCategory": "Breakfast",
+      "Price": 12.99,
+      "Review": 0,
+      "Likes": 0,
+      "Admin": "Shopnil",
+      "Posted-At": "2023-10-12",
+      "Description": "Delicious Italian pasta dish made with eggs, cheese, pancetta, and black pepper."
+    },
+    
+    {
+      "FoodName": "Beef Tacos",
+      "FoodImage": "https://i.ibb.co/HhRSNzS/pexels-los-muertos-crew-7613568.jpg",
+      "FoodCategory": "Dinner",
+      "Price": 13.99,
+      "Review": 0,
+      "Likes": 0,
+      "Admin": "Shopnil",
+      "Posted-At": "2023-10-20",
+      "Description": "Soft or hard shell tacos with seasoned ground beef, lettuce, cheese, and salsa."
+    }
+  ]
